@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    tools:context=".MainActivity">
+    <!--头部-->
+    <include layout="@layout/head_layout"/>
+    <!--呼叫部分-->
+    <include layout="@layout/call_layout"/>
+    <!--标题部分-->
+    <include layout="@layout/title_layout"/>
+    <!--列表部分-->
+    <include layout="@layout/list_layout"/>
+    <!--底部-->
+    <include layout="@layout/foot_layout"/>
+</LinearLayout>

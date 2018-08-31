@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">排队叫号（候诊大厅）</string>
+    <string name="footInfo">请其他患者在候诊大厅耐心等候!</string>
+    <string name="room">诊室</string>
+    <string name="seeing">就诊中</string>
+    <string name="waiting">候诊中</string>
+    <string name="address">http://139.199.57.121:8080/queuecall/facade/department/retrieve?departmentCode=001</string>
+    <string name="warn">您的软件已超出使用期限，请联系经销商！</string>
+    <string name="getDataFailInfo">获取软件授权信息失败，请联系经销商！</string>
+</resources>
